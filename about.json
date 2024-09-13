@@ -11,12 +11,12 @@
   },
   "color_schemes": {
     "QuickSkill2": {
-      "primary": "680CEA",
-      "secondary": "ffffff",
-      "tertiary": "680CEA",
-      "quaternary": "e45735",
+      "primary": "000000",
+      "secondary": "f8f8f8",
+      "tertiary": "680cea",
+      "quaternary": "000000",
       "header_background": "ffffff",
-      "header_primary": "680CEA",
+      "header_primary": "680cea",
       "highlight": "daadff",
       "danger": "daadff",
       "success": "daadff",
