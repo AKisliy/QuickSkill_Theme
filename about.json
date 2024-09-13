@@ -1,0 +1,31 @@
+{
+  "name": "QuickSkill",
+  "component": false,
+  "license_url": null,
+  "about_url": null,
+  "authors": null,
+  "theme_version": null,
+  "minimum_discourse_version": null,
+  "maximum_discourse_version": null,
+  "assets": {
+  },
+  "color_schemes": {
+    "QuickSkill2": {
+      "primary": "680CEA",
+      "secondary": "ffffff",
+      "tertiary": "680CEA",
+      "quaternary": "e45735",
+      "header_background": "ffffff",
+      "header_primary": "680CEA",
+      "highlight": "daadff",
+      "danger": "daadff",
+      "success": "daadff",
+      "love": "ff0000",
+      "selected": "dbc2ff",
+      "hover": "dbc2ff"
+    }
+  },
+  "modifiers": {
+  },
+  "learn_more": "https://meta.discourse.org/t/beginners-guide-to-using-discourse-themes/91966"
+}
